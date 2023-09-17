@@ -1,0 +1,74 @@
+{
+    "editor.minimap.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.autoSave": "onFocusChange",
+    "workbench.tree.indent": 17,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "git.enableSmartCommit": true,
+    "editor.lineHeight": 20,
+    "editor.fontSize": 16,
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "editor.formatOnPaste": true,
+        "editor.tabSize": 2,
+        "editor.detectIndentation": false,
+    },
+    "git.confirmSync": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.hovers.enabled": false,
+    "editor.semanticHighlighting.enabled": true,
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.advanced": {},
+    "[xslt]": {
+        "editor.semanticHighlighting.enabled": true
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": false,
+        "yaml": true
+    },
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "remote.SSH.defaultExtensions": [
+        "gitpod.gitpod-remote-ssh"
+    ],
+    "remote.SSH.remotePlatform": {
+        "neo4jgraphaca-appnodejs-mkhtlha0hm7.ssh.ws-eu96b.gitpod.io": "linux"
+    },
+    "workbench.startupEditor": "none",
+    "eslint.format.enable": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": -1,
+}
