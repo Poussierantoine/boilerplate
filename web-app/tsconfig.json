@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "target": "ES6",
+        "noEmitOnError": true,
+        "strict": true,
+        "noUncheckedIndexedAccess": true,
+        "declaration": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    },
+    "files": [
+        "./src/app.ts",
+        "./src/app2.ts",
+    ],
+    "include": [
+        "./src/types/*.ts"
+    ],
+}
